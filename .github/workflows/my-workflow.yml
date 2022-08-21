@@ -12,6 +12,6 @@ jobs:
       - name: hello-action
         uses: ./.github/actions/hello-world
         with: 
-          firstGreating: "Richard Saavedra"
+          firstGreeting: "Richard Saavedra"
           secondGreeting: "Angela Hoyos"
-          thirdGreating: "Mateo Saavedra"
+          thirdGreeting: "Mateo Saavedra"
